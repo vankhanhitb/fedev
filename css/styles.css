@@ -368,6 +368,13 @@
      
   }
 
+  @media only screen and (max-width:375px){
+    .show-mobile,
+    .menu-left ul{
+        left: 25px;
+    }
+  }
+
   @media only screen and (max-width:320px){
     .show-mobile,
     .menu-left ul{
